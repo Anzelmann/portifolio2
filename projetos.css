@@ -1,0 +1,186 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #333333;
+  
+  
+}
+
+.menu > nav{
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: #545454;
+  height: 60px;
+  font-display: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b0b0b0;
+  
+  
+}
+
+.projetos{
+  color: white;
+}
+
+.inicio:hover{
+
+  color: white;
+  cursor: pointer;
+  
+}
+
+.carreira:hover{
+
+  color: white;
+  cursor: pointer;
+}
+
+.projetos:hover{
+
+  color: white;
+  cursor: pointer;
+}
+
+.sobre:hover{
+
+  color: white;
+  cursor: pointer;
+}
+
+.projetos2{
+  
+  
+  height: 60px;
+  font-display: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b0b0b0;
+}
+
+.projetos3{
+
+  margin-top: 160px;
+  margin-left: -25px;
+  height: 60px;
+  font-display: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b0b0b0;
+}
+.fastlog2{
+  margin-left: -15px;
+}
+.conlogbi2{
+  margin-left: 35px;
+}
+
+.projetos4{
+  margin-left: 5px;
+  margin-top: 5px;
+  height: 60px;
+  font-display: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b0b0b0;
+}
+
+.bot1{
+  font-weight: bold;
+  margin-left: 8px;
+  border: none;
+  border-radius: 15px;
+  width: 130px;
+  height: 40px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+.bot2{
+  font-weight: bold;
+  margin-left: 11px;
+  border: none;
+  border-radius: 15px;
+  width: 130px;
+  height: 40px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+.bot3{
+  font-weight: bold;
+  margin-left: 26px;
+  border: none;
+  border-radius: 15px;
+  width: 130px;
+  height: 40px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+.bot1:hover{
+
+  background-color: #26b8e899;
+  cursor: pointer;
+  
+}
+
+.bot2:hover{
+
+  background-color: #26b8e899;
+  cursor: pointer;
+
+}
+
+.bot3:hover{
+
+  background-color: #26b8e899;
+  cursor: pointer;
+
+}
+
+.projetos5{
+  margin-left: 5px;
+  margin-top: -5px;
+  height: 60px;
+  font-display: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b0b0b0;
+}
+
+.desk-neiva{
+  margin-left: 10px;
+  width: 350px;
+  height: 100px;
+}
+
+.desk-fastlog{
+  margin-left: -10px;
+  width: 350px;
+  height: 100px;
+}
+
+.desk-conlogbi{
+  margin-left: -10px;
+  width: 350px;
+  height: 100px;
+}
