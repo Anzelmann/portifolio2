@@ -9,7 +9,7 @@ html {
   .menu > nav{
     border-radius: 10px;
     font-weight: bold;
-    background-color: #545454;
+    background-color: #333333;
     height: 60px;
     font-display: center;
     display: flex;
@@ -23,7 +23,7 @@ html {
 }
 
 .inicio{
-  color: white;
+  color: #00fbff;
 }
 
 .inicio:hover{
@@ -53,7 +53,7 @@ html {
 
 .tecnologias{
   
-  margin-left: 130px;
+  margin-left: 160px;
   width: -20%;
   height: -20%;
 

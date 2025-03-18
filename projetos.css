@@ -9,8 +9,8 @@ html {
 .menu > nav{
   border-radius: 10px;
   font-weight: bold;
-  background-color: #545454;
-  height: 60px;
+  background-color: #333333;
+  height: 120px;
   font-display: center;
   display: flex;
   justify-content: space-around;
@@ -23,7 +23,7 @@ html {
 }
 
 .projetos{
-  color: white;
+  color: #00fbff;
 }
 
 .inicio:hover{
